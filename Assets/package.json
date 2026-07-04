@@ -1,0 +1,12 @@
+{
+    "name": "com.tiredsiren.unieventbus",
+    "displayName": "Unity Even Bus",
+    "author": { "name": "Zem"},
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "Event bus implementation for Unity.",
+    "license": "MIT",
+    "dependencies": {
+        "com.tiredsiren.unir3": "1.0.0"
+    }
+}
