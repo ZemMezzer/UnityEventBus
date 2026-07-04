@@ -6,7 +6,7 @@ Open `Packages/manifest.json` and add the following line to the `dependencies` s
 ```json
 {
   "dependencies": {
-    "com.tiredsiren.event_bus": "https://github.com/ZemMezzer/UnityEventBus.git?path=Assets/EventBus#x.x.x"
+    "com.tiredsiren.unieventbus": "https://github.com/ZemMezzer/UnityEventBus.git?path=Assets/EventBus#x.x.x"
   }
 }
 ```
