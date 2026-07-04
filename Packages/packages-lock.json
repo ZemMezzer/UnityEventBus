@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.tiredsiren.unir3": {
+      "version": "https://github.com/ZemMezzer/UniR3.git?path=UniR3/Assets/UniR3#1.0.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0"
+      },
+      "hash": "61b073530f22b711d5b7604f0f70258630709844"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.13",
       "depth": 0,
